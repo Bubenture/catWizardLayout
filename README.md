@@ -1,3 +1,1 @@
-# CatWizard
-
-# https://bubenture.github.io/CatWizard/
+# https://bubenture.github.io/catWizardLayout
