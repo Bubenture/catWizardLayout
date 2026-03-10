@@ -3,7 +3,7 @@
 The layout is implemented modularly, using separate CSS classes for each semantic block.
 
 
-<img src="description.png" alt="Image 1" style="width: 300px; margin-right: 10px;">
+<img src="../description.png" alt="Image 1" style="width: 300px; margin-right: 10px;">
 
 #### Features:
 - The layout is created without the use of JavaScript.
