@@ -1,4 +1,4 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+<a href="../README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
 </br>
 The layout is implemented modularly, using separate CSS classes for each semantic block.
 
